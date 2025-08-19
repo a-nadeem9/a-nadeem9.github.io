@@ -1,22 +1,35 @@
-- title: Adina Nadeem
+- title: Divakar Verma
   # type: map
   # contents:
-  #   - name: Full Name
-  #     value: Albert Einstein
-  #   - name: Date of Birth
-  #     value: 14th March 1879
-  #   - name: Languages
-  #     value: English, German
+    # - name: Full Name
+    #   value: Divakar Verma
+    # - name: Date of Birth
+    #   value: 14th March 1879
+    # - name: Languages
+    #   value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Bioinformatics, Specialization in Data Science
-      institution: Freie Universitaet Berlin
-      year: 2024
-    - title: Bachelor of Science in Bioinformatics
-      institution: COMSATS University Islamabad
-      year: 2018-2022
+    - title: Computer Vision Specialization
+      institution: Princeton University, US
+      year: 2022
+      description:
+        - title: COS 529 Advanced Computer Vision
+          contents:
+            - 3D vision, recognition and recent research methods.
+        - title: COS 597B Recent Advanced in Computer Vision
+          contents:
+            - Robustness, transparency and fairness of CV systems.
+    - title: Masters in Computer Science
+      institution: Rutgers University, New Brunswick, US
+      year: 2021
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+    - title: Bachelors in Computer Science
+      institution: BITS Pilani, Pilani
+      year: 2014-18
 
 - title: Experience
   type: time_table
@@ -73,3 +86,5 @@
     #   items:
     #     - Description 1.
     #     - Description 2.
+
+
